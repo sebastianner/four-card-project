@@ -32,6 +32,8 @@ body{
     font-weight: 400;
     font-size: 1em;
     color: hsl(229, 6%, 66%);
+    max-width: 550px;
+    margin: 0 auto;
 }
 
 .card-container{
