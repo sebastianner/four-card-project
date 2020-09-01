@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Escuela de Desarrollo Web by Platzi - Four card feature section
 
 ![Vista previa del diseño para el desafío de la sección de cuatro cartas](./design/desktop-preview.jpg)
@@ -50,3 +51,7 @@ No dudes en utilizar cualquier flujo de trabajo con el que te sienta más cómod
 ## Créditos por el diseño y reto.
 
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io)
+=======
+# four-card-project
+Four card feature section challenge by Frontend Mentor
+>>>>>>> c7e7454b90205b2c350342622cf07b90384ce5d2
