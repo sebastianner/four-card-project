@@ -49,6 +49,7 @@ body{
     border-radius: 5px;
     padding: 20px;
     position: relative;
+    background-color: white;
 }
 
 .card:nth-child(2){
